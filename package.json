@@ -1,0 +1,23 @@
+{
+  "name": "spmconnectsocketio",
+  "version": "1.0.0",
+  "description": "A chat app based on socket io example to connect spm users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luv4ever2shail/spmconnectsocketio.git"
+  },
+  "author": "Shail Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luv4ever2shail/spmconnectsocketio/issues"
+  },
+  "homepage": "https://github.com/luv4ever2shail/spmconnectsocketio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
